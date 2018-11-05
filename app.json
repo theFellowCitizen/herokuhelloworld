@@ -1,0 +1,17 @@
+{
+  "name": "herokuhelloworld",
+  "description": "this is my heroku SF test",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+    "herokuconnect",
+    "heroku-postgresql"
+  ],
+  "buildpacks": [
+
+  ]
+}
